@@ -6,6 +6,10 @@
 - Machine Learning Engineer in Medical image (MRI)
 - I am organized in the ICML Lab of Pusan National University (PNU)
 
+[![Solved.ac
+asd147asd147](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
+[![Solved.ac
+asd147asd147](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
 
 <div align=center>
   
