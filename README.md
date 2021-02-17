@@ -15,7 +15,7 @@ asd147asd147](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd147asd147)](h
 </div>
 <div align=center>
   
-[![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/asd147asd147/)](https://github.com/asd147asd147)	
+[![GitHub Badge](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/asd147asd147/)](https://github.com/asd147asd147)	
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6MB_hchKcrtvVu_x_9ZZzg)](https://www.youtube.com/channel/UC6MB_hchKcrtvVu_x_9ZZzg)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006911264617)](https://www.facebook.com/profile.php?id=100006911264617)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/choi1jun/)](https://www.instagram.com/choi1jun/) 
