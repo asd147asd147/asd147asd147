@@ -6,7 +6,7 @@
 - Machine Learning Engineer in Medical image (MRI)
 - I am organized in the ICML Lab of Pusan National University (PNU)
 
-### My Baekjoon Rank
+### Baekjoon Rank
 [![Solved.ac
 asd147asd147](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
 
