@@ -10,9 +10,12 @@
 [![Solved.ac
 asd147asd147](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
 
+<div align=center>
+  
 [![Solved.ac
 asd147asd147](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
 
+</div>
 <div align=center>
   
 [![GitHub](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/asd147asd147/)](https://github.com/asd147asd147)	
