@@ -7,9 +7,6 @@
 - I am organized in the ICML Lab of Pusan National University (PNU)
 
 ### Baekjoon Rank
-[![Solved.ac
-asd147asd147](http://mazassumnida.wtf/api/mini/generate_badge?boj=asd147asd147)](https://solved.ac/asd147asd147)
-
 <div align=center>
   
 [![Solved.ac
