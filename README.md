@@ -1,5 +1,6 @@
 <div align=center>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasd147asd147&count_bg=%235DCFCB&title_bg=%23606568&icon=tensorflow.svg&icon_color=%2378BFF1&title=Hits&edge_flat=false"/>
+<br/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/asd147asd147?style=social">
 </div>
 
