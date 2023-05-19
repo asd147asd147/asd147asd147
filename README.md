@@ -4,7 +4,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/asd147asd147?style=social">
 </div>
 
-### Computer Vision & Machine Learning Engineer
+### Computer Vision & Deep Learning Engineer
 - Machine Learning Engineer in Medical image (MRI)
 - I am organized in the ICML Lab of Pusan National University (PNU)
 
