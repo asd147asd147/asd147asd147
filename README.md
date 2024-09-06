@@ -4,9 +4,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/asd147asd147?style=social">
 </div>
 
-### Computer Vision & Deep Learning Engineer
-- I am organized in the ICML Lab of Pusan National University (PNU)
-
+### Autonomous Driving and Edge Device AI Engineer
+- I am organized in the Driver Assistant Platform Team of Telechips Incoperation
+- 
 ### Baekjoon Rank
 <div align=center>
   
