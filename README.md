@@ -6,7 +6,7 @@
 
 ### Autonomous Driving and Edge Device AI Engineer
 - I am organized in the Driver Assistant Platform Team of Telechips Incoperation
-- 
+  
 ### Baekjoon Rank
 <div align=center>
   
